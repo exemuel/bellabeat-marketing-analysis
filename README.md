@@ -59,5 +59,5 @@ Based on the analysis of the FitBit consumer data, I recommend the following mar
 
 ### Author
 **Samuel Situmeang** 
-Institut Teknologi Del  
+
 Email: samsitumeang@gmail.com / samuel.situmeang@del.ac.id
